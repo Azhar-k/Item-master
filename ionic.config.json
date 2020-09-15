@@ -1,0 +1,7 @@
+{
+  "name": "ItemMaster",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
